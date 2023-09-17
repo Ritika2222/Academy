@@ -1,0 +1,52 @@
+* {
+    font-family: cursive;
+    background-image: url('IMG-20230629-WA0005.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    color: black;
+    opacity: 1;
+    font-weight: 900;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.main {
+    margin: 0;
+    font-size: 60px;
+    text-shadow: 5px 5px 5px grey;
+}
+
+.main1{
+    
+    text-align: center;
+}
+.navbar{
+    text-align: center;
+    align-items: center;
+    margin: 30px;
+    padding: 12px;
+    word-spacing: 50px;
+    font-size:  30px;
+}
+
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
